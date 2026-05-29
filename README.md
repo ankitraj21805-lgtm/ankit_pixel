@@ -37,7 +37,7 @@ Mission: Building intelligent, cinematic and scalable digital experiences
 
 <div align="center">
 
-[![Project](https://img.shields.io/badge/🚀_OPEN_LIVE_PROJECT-00E5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://ankitraj21805-lgtm.github.io/ankit-3d-avatar/)
+[![Project](https://img.shields.io/badge/🚀_OPEN_LIVE_PROJECT-00E5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://ankitraj21805-lgtm.github.io/ankit_3d_avatar/)
 ---
 
 ## 🛠️ Premium Skill Matrix
