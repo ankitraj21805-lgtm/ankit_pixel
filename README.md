@@ -14,7 +14,6 @@
 
 ## 🧬 SYSTEM PROFILE
 
-yaml
 Name: Ankit Sharma
 Codename: ANKITVERSE
 Status: Online
@@ -124,7 +123,6 @@ Mission: Building intelligent, cinematic and scalable digital experiences
 
 ## 🧠 Professional Strengths
 
-txt
 ⚡ Agile Problem Solving
 ⚡ Adaptability
 ⚡ Fast Learning
