@@ -1,87 +1,203 @@
-<h1 align="center">Hi ??, I'm Ankit Sharma</h1>
+[11:11 am, 29/5/2026] Ankit Sharma: https://predeploy-720925b5-ankitfolio-dpbne4we-dpzmawp3xabm3hyz.manus.space/
+[11:15 am, 29/5/2026] Ankit Sharma: https://ankitfolio-dpbne4we.manus.space
+[11:32 am, 29/5/2026] Ankit Sharma: <div align="center">
 
-<h3 align="center">
-Python Developer | Django Developer | Frontend Developer | AI Automation Enthusiast
-</h3>
+# ? ANKITVERSE ?
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Python+Developer;Frontend+Developer;AI+Automation+Enthusiast;UI%2FUX+Designer;Building+Premium+Digital+Experiences" />
-</p>
-## 🌐 Live Portfolio
-https://ankitfolio-dpbne4we.manus.space
----
+### ?? AI Engineer | Full Stack Developer | Software Engineer | Automation Specialist
 
-## ✔ About Me
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Welcome+to+ANKITVERSE;Building+The+Future+With+AI+And+Code;Full+Stack+Developer;AI+Automation+Specialist;Software+Engineer;Digital+Innovator" />
 
-- ✔ Diploma in Computer Science Engineering
-- ✔ Learning Python, Django & REST APIs
-- ✔ UI/UX & Graphic Designer
-- ✔ Interested in AI Automation & Productivity Systems
-- ✔ Open for internships, freelance work & collaborations
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ankitraj21805-lgtm&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge)
+
+</div>
 
 ---
 
-## ?? Connect With Me
+# ?? SYSTEM PROFILE
 
-<p align="left">
-<a href="https://github.com/ankittsharmma01-pixel" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-
-<a href="https://www.linkedin.com/in/ankit-sharma-699b51317" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-</p>
+yaml
+NAME: Ankit Sharma
+CODENAME: ANKITVERSE
+STATUS: ONLINE
+ROLE: AI Engineer & Full Stack Developer
+SPECIALIZATION: AI Automation & Intelligent Systems
+MISSION: Building futuristic digital experiences
 
 ---
 
-## ? Tech Stack
+?? ABOUT ME
 
-<p align="left">
+?? Diploma in Computer Science Engineering
 
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=django" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
+?? Full Stack Developer
 
-</p>
+?? Software Engineer
 
----
+?? AI Automation Specialist
 
-## ?? Featured Projects
+?? Graphic Designer
 
-- ✔ AI Workflow System
-- ✔ Mock Test Platform
-- ✔ Premium Portfolio Website
-- ✔ Online Book Store
-- ✔ Automation Workflows
-- 10+projects✔
----
+?? UI/UX Designer
 
-## ?? GitHub Stats
+?? Prompt Engineer
 
-<p align="center">
+?? API Integration Enthusiast
 
-<img src="https://github-readme-stats.vercel.app/api?username=ankitraj21805-lgtm&show_icons=true&theme=tokyonight" />
+?? Future Tech Explorer
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitraj21805-lgtm&theme=tokyonight" />
-
-</p>
+?? Open For Freelance, Internship & Collaboration
 
 ---
 
-## ?? Visitor Counter
+?? CORE PROGRAMMING
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ankitraj21805-lgtm&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+- Python
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- SQL
+- OOP Concepts
+- Data Structures
+- Algorithms
 
 ---
 
-<h3 align="center">
-?? Thanks for visiting my profile ??
-</h3>
+?? SOFTWARE ENGINEERING
+
+- Full Stack Development
+- Web Application Architecture
+- REST API Development
+- Authentication Systems
+- Database Design
+- Performance Optimization
+- System Design Fundamentals
+- Scalable Applications
+
+---
+
+?? AI TOOLING & FRAMEWORKS
+
+- ChatGPT
+- Gemini
+- Claude
+- OpenAI Tools
+- AI Automation Systems
+- AI Agents
+- Workflow Automation
+- AI Productivity Systems
+
+---
+
+?? LLMs & PROMPT ENGINEERING
+
+- Prompt Engineering
+- Context Engineering
+- AI Agent Design
+- Conversational AI
+- LLM Optimization
+- Workflow Intelligence
+- AI Content Systems
+
+---
+
+?? AI ASSISTED DESIGN
+
+- UI/UX Design
+- Graphic Design
+- Branding Systems
+- Visual Identity Design
+- AI Image Generation
+- Design Prototyping
+- Digital Experiences
+
+---
+
+?? APIs & INTEGRATIONS
+
+- REST APIs
+- Webhooks
+- API Testing
+- Authentication APIs
+- Third Party Integrations
+- AI APIs
+- Cloud Services
+
+---
+
+?? CAD & TECHNICAL DESIGN
+
+- CAD Fundamentals
+- Technical Drawing
+- Digital Modeling
+- Product Visualization
+
+---
+
+?? CRM & BUSINESS SYSTEMS
+
+- CRM Platforms
+- Customer Workflow Design
+- Business Automation
+- Lead Management
+- Customer Analytics
+
+---
+
+??? PROFESSIONAL STRENGTHS
+
+- Agile Problem Solving
+- Adaptability
+- Critical Thinking
+- Leadership
+- Team Collaboration
+- Communication
+- Fast Learning
+- Innovation Mindset
+
+---
+
+?? FEATURED PROJECTS
+
+? AI Workflow System
+
+? Premium Portfolio Website
+
+? Automation Workflows
+
+? Online Book Store
+
+? Full Stack Applications
+
+? AI Powered Productivity Tools
+
+---
+
+?? LIVE PORTFOLIO
+
+?? https://ankitraj21805-lgtm.github.io/ankittsharmma/
+
+---
+
+?? CONNECT WITH ME
+
+GitHub
+
+https://github.com/ankitraj21805-lgtm
+
+LinkedIn
+
+Add Your LinkedIn URL
+
+Email
+
+ankitraj21805@gmail.com
+
+---
+
+<div align="center">? "Building The Future Through Code, AI & Innovation."
+
+</div>
