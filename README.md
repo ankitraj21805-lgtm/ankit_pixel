@@ -90,6 +90,11 @@ Mission: Building intelligent, cinematic and scalable digital experiences
 | 🎨 AI Brand Identity Kit | Canva + Photoshop + AI | Completed |
 | 🧠 Productivity Automation | AI Tools + APIs | Building |
 
+<a href="https://ankitraj21805-lgtm.github.io/ankit-3d-avatar/" target="_blank" class="project-card">
+  <h3>3D AI Avatar</h3>
+  <p>Animated futuristic AI avatar with hologram rings, glowing particles and cyber UI.</p>
+  <span>Live Project →</span>
+</a>
 ---
 
 ## 📊 GitHub Analytics
