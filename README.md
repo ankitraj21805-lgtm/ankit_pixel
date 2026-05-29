@@ -25,7 +25,7 @@ Mission: Building intelligent, cinematic and scalable digital experiences
 
 ---
 
-## 🚀 JARVIS OS 
+## 🚀 Live JARVIS 
 
 <div align="center">
 
