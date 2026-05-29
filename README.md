@@ -8,7 +8,7 @@ Python Developer | Django Developer | Frontend Developer | AI Automation Enthusi
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Python+Developer;Frontend+Developer;AI+Automation+Enthusiast;UI%2FUX+Designer;Building+Premium+Digital+Experiences" />
 </p>
 ## 🌐 Live Portfolio
-https://ankitraj21805-lgtm.github.io/ankittsharmma/
+https://ankitfolio-dpbne4we.manus.space
 ---
 
 ## ✔ About Me
